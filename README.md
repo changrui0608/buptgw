@@ -1,7 +1,9 @@
 # buptgw
 
-a ultility script for BUPT gateway login, logout ...
+an ultility script for BUPT gateway login, logout ...
+
 easier login in CLI
+
 written in Python, Python2 env is required
 
 ## usage
